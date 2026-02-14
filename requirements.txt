@@ -1,0 +1,10 @@
+python-osc
+torch
+transformers
+torchvision
+torchaudio
+torch-directml
+opencv-python
+mss
+pyautogui
+numpy
