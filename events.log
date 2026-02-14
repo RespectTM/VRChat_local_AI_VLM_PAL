@@ -50,3 +50,13 @@
 2026-02-14 15:58:43 - [VISION] Captured VRChat GAME window: (1269, 690, 2563, 1393) (1294x703)
 2026-02-14 15:58:49 - [VISION] Captured VRChat GAME window: (1269, 690, 2563, 1393) (1294x703)
 2026-02-14 15:58:55 - [VISION] Captured VRChat GAME window: (1269, 690, 2563, 1393) (1294x703)
+[2026-02-14 16:59:50] Vision model (BLIP) loaded successfully.
+[2026-02-14 16:59:51] Thinking model (GPT-2) loaded successfully.
+[2026-02-14 16:59:53] Chat model (GPT-2) loaded successfully.
+[2026-02-14 16:59:53] VRChatAI initialized with Moondream vision and GPT-2 models.
+[2026-02-14 16:59:53] VRChat window found: <Win32Window left="5", top="0", width="1929", height="1392", title="main.py - VRChat_local_AI_VLM_PAL - Visual Studio Code">
+[2026-02-14 17:12:42] Vision model (BLIP) loaded as fallback.
+[2026-02-14 17:12:43] Thinking model (GPT-2) loaded successfully.
+[2026-02-14 17:12:44] Chat model (GPT-2) loaded successfully.
+[2026-02-14 17:12:44] VRChatAI initialized with BLIP vision and GPT-2 models.
+[2026-02-14 17:12:44] VRChat window found: <Win32Window left="5", top="0", width="1929", height="1392", title="test_moondream.py - VRChat_local_AI_VLM_PAL - Visual Studio Code">
