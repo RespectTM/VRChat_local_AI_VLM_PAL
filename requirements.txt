@@ -1,3 +1,4 @@
 # Minimal requirements
 requests
 python-dotenv
+Pillow

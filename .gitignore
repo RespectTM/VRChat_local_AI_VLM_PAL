@@ -6,3 +6,55 @@ events.log
 thinking.log
 __pycache__/
 *.pyc
+
+## Virtualenvs and environments
+venv/
+ENV/
+env/
+
+## Python build/artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+## Logs and databases
+*.log
+*.sqlite3
+*.db
+
+## IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+.coverage
+
+## Large model weights / binaries
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.gguf
+*.onnx
+*.tflite
+
+## Captures and screenshots
+captures/
+
+## Environment files
+.env
+.env.*
+
+## Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+# Replace these paths with the actual paths to your files
+FROM ./moondream2-text-model-f16.gguf
+ADAPTER ./moondream2-mmproj-f16.gguf
+
+# Optional: Add parameters to optimize performance
+PARAMETER temperature 0.2
+PARAMETER stop "<|endoftext|>"
