@@ -1,0 +1,42 @@
+# VRChat AI PAL — configuration
+# Edit this file to change models, timing, and behaviour.
+
+# --- Models ---
+vision_model: moondream:latest   # fast image-to-text; runs first every tick
+think_model:  gemma3:12b         # reasoning / personality; gets the scene description
+
+# --- Capture ---
+capture_dir: captures
+interval: 10.0                   # seconds between captures
+
+# --- VRChat OSC chatbox ---
+osc:
+  enabled: true
+  ip: 127.0.0.1
+  port: 9000
+  chatbox_limit: 144             # VRChat hard character limit per message
+
+# --- Persistent conversation memory ---
+memory:
+  file: memory/conversation.json
+  max_history: 20                # keep last N messages in gemma3 context (+ system prompt)
+
+# --- Text-to-speech (Windows SAPI via pyttsx3) ---
+tts:
+  enabled: true
+  rate: 175                      # words per minute (default Windows voice ~175)
+  volume: 1.0                    # 0.0 – 1.0
+
+# --- Web dashboard (http://localhost:5000) ---
+dashboard:
+  enabled: true
+  host: 127.0.0.1
+  port: 5000
+
+# --- Personality / system prompt for gemma3:12b ---
+think_system_prompt: |
+  You are a witty, friendly AI companion watching someone play VRChat.
+  Each turn you receive a brief visual description of the current scene.
+  React with a single short observation or comment — 1 to 2 sentences maximum.
+  Be genuinely curious and conversational. Never repeat a previous comment.
+  Do not start every reply the same way.

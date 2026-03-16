@@ -2,3 +2,10 @@
 requests
 python-dotenv
 Pillow
+python-osc
+pyyaml
+pyttsx3
+flask
+dxcam
+# Windows Graphics Capture
+windows-capture
