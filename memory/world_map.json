@@ -1,0 +1,1063 @@
+{
+  "Space world": {
+    "first_seen": "2026-03-19",
+    "observations": 237,
+    "signs": [
+      "buttons",
+      "floating_labels",
+      "posters",
+      "graffiti",
+      "writing_on_walls_objects_floor",
+      "<floating_label>",
+      "/world loading text/",
+      "/noticeboard message/",
+      "circular portal with 'teleport' label",
+      "EVERY piece_of_readable_text_anywhere_in_the_image",
+      "Make your choice, traveler.",
+      "GATE",
+      "Rabbids till April 1st, 2026.",
+      "Accept Sharing From",
+      "Allow Pedestal Sharing",
+      "UI Elements",
+      "Welcome to VR Chat Start Here",
+      "Input 2.0 FAQ",
+      "VR Chat Essentials",
+      "The VRChat Community",
+      "FPS Make your own better",
+      "Make your choice: traveller, researcher",
+      "Make your choice, traveller.",
+      "<floating text> It seems we're both travelers here. Care to share what you discovered?</floating text>",
+      "<floating text> Make your choice, traveler!</floating text>",
+      "Make your choice",
+      "Make your choice!",
+      "Degenosah",
+      "Make your choice. Warning!",
+      "Degenosh",
+      "Make your choice. Warning.",
+      "Welcome to Degenosh!",
+      "Your choice... Warning!",
+      "PS - Make your choice; wander",
+      "everypiece_ofreadable_text",
+      "text",
+      "Deinosah",
+      "Make your choice, traveler",
+      "Degenonah",
+      "Degenoa",
+      "Make your choice, traveller"
+    ],
+    "areas": [
+      "scene depicts a nighttime underwater environment with stars visible in the sky",
+      "in this nighttime virtual environment, an ethereal bridge connects two floating platfor…",
+      "in this vrchat environment, it appears to be nighttime",
+      "scene displays an open-night sky with stars visible above",
+      "dark, mystical environment under a starry night sky",
+      "based on the provided images and instructions, here is the detailed analysis:\n\n**scene*…",
+      "underwater environment at night",
+      "dark nighttime setting with starry sky; environment appears to be in an open area with …",
+      "based on the provided images and their sequential arrangement, here is a detailed descr…",
+      "nighttime virtual reality environment with an ancient or mystical theme",
+      "in this vrchat scene captured 3 seconds apart, we see an outdoor nighttime environment …",
+      "outdoor nighttime setting",
+      "vrchat environment at night with a dark atmosphere",
+      "based on the provided images and instructions, here's a detailed analysis of each vrcha…",
+      "nighttime virtual environment with dim lighting from various objects",
+      "using the information from these five consecutive vrchat frames captured over a span of…",
+      "dark nighttime virtual environment with eerie ambiance",
+      "dark, eerie nighttime scene with various architectural structures such as arches and a …",
+      "environment depicted is an eerie, dark landscape at night",
+      "scene is a dimly lit virtual environment that appears eerie and desolate",
+      "underwater setting with artificial lights illuminating an underwater structure",
+      "based on the provided images and descriptions, here's a detailed analysis:\n\n**scene**: …",
+      "dark nighttime scenery with stars and ambient lighting",
+      "dark virtual environment with a starry sky and illuminated structures",
+      "based on the provided images and their context within vrchat gameplay, here is a detail…",
+      "based on the provided image frames and instructions, here is a detailed description for…",
+      "night-time virtual reality environment with a mystical or eerie atmosphere",
+      "based on the provided images and instructions, here is a detailed description of each e…",
+      "based on the provided images and their descriptions, here is a detailed analysis of eac…",
+      "virtual environment with a nighttime setting featuring glowing purple ground"
+    ],
+    "last_seen": "2026-03-20",
+    "visitor_counts": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "typical_crowd": 0.7,
+    "topology": {
+      "scene appears to be set within a virtual environment at nigh": {
+        "label": "scene appears to be set within a virtual environment at nigh",
+        "connects_to": [
+          "nighttime virtual reality environment with several avatars g"
+        ]
+      },
+      "nighttime virtual reality environment with several avatars g": {
+        "label": "nighttime virtual reality environment with several avatars g",
+        "connects_to": [
+          "scene appears to be set within a virtual environment at nigh",
+          "scene captures a nighttime virtual environment with glowing "
+        ]
+      },
+      "scene captures a nighttime virtual environment with glowing ": {
+        "label": "scene captures a nighttime virtual environment with glowing ",
+        "connects_to": [
+          "nighttime virtual reality environment with several avatars g",
+          "nighttime virtual environment featuring several players with"
+        ]
+      },
+      "nighttime virtual environment featuring several players with": {
+        "label": "nighttime virtual environment featuring several players with",
+        "connects_to": [
+          "scene captures a nighttime virtual environment with glowing ",
+          "['in this night-time virtual environment within vrchat, mult"
+        ]
+      },
+      "['in this night-time virtual environment within vrchat, mult": {
+        "label": "['in this night-time virtual environment within vrchat, mult",
+        "connects_to": [
+          "nighttime virtual environment featuring several players with",
+          "['the scene depicts an outdoor nighttime setting with severa"
+        ]
+      },
+      "['the scene depicts an outdoor nighttime setting with severa": {
+        "label": "['the scene depicts an outdoor nighttime setting with severa",
+        "connects_to": [
+          "['in this night-time virtual environment within vrchat, mult",
+          "scene takes place within vrchat at night"
+        ]
+      },
+      "scene takes place within vrchat at night": {
+        "label": "scene takes place within vrchat at night",
+        "connects_to": [
+          "['the scene depicts an outdoor nighttime setting with severa",
+          "based on the provided images and instructions, here's a stru"
+        ]
+      },
+      "based on the provided images and instructions, here's a stru": {
+        "label": "based on the provided images and instructions, here's a stru",
+        "connects_to": [
+          "scene takes place within vrchat at night",
+          "based on the images provided and their sequence of capture w",
+          "in this vrchat environment, several avatars are gathered aro",
+          "in this vrchat scene, we observe an outdoor setting at night",
+          "dark, outdoor nighttime setting with silhouettes of figures ",
+          "scene shows a dark night environment with purple lighting",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the images provided and their sequence of capture w": {
+        "label": "based on the images provided and their sequence of capture w",
+        "connects_to": [
+          "based on the provided images and instructions, here's a stru",
+          "['in this nighttime scene within an open virtual space with "
+        ]
+      },
+      "['in this nighttime scene within an open virtual space with ": {
+        "label": "['in this nighttime scene within an open virtual space with ",
+        "connects_to": [
+          "based on the images provided and their sequence of capture w",
+          "scene appears to be set within a virtual reality environment"
+        ]
+      },
+      "scene appears to be set within a virtual reality environment": {
+        "label": "scene appears to be set within a virtual reality environment",
+        "connects_to": [
+          "['in this nighttime scene within an open virtual space with ",
+          "based on the image provided, here's a structured description"
+        ]
+      },
+      "based on the image provided, here's a structured description": {
+        "label": "based on the image provided, here's a structured description",
+        "connects_to": [
+          "scene appears to be set within a virtual reality environment",
+          "based on the image provided and following your instructions "
+        ]
+      },
+      "based on the image provided and following your instructions ": {
+        "label": "based on the image provided and following your instructions ",
+        "connects_to": [
+          "based on the image provided, here's a structured description",
+          "based on the images provided and according to your instructi"
+        ]
+      },
+      "based on the images provided and according to your instructi": {
+        "label": "based on the images provided and according to your instructi",
+        "connects_to": [
+          "based on the image provided and following your instructions ",
+          "night-time virtual environment with dark skies and artificia"
+        ]
+      },
+      "night-time virtual environment with dark skies and artificia": {
+        "label": "night-time virtual environment with dark skies and artificia",
+        "connects_to": [
+          "based on the images provided and according to your instructi",
+          "dark nighttime setting with purple hues; rocky ground and st"
+        ]
+      },
+      "dark nighttime setting with purple hues; rocky ground and st": {
+        "label": "dark nighttime setting with purple hues; rocky ground and st",
+        "connects_to": [
+          "night-time virtual environment with dark skies and artificia",
+          "dark nighttime setting with silhouetted figures standing aga"
+        ]
+      },
+      "dark nighttime setting with silhouetted figures standing aga": {
+        "label": "dark nighttime setting with silhouetted figures standing aga",
+        "connects_to": [
+          "dark nighttime setting with purple hues; rocky ground and st",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "[2 sequential observations — ~2 seconds of continuous vrchat": {
+        "label": "[2 sequential observations — ~2 seconds of continuous vrchat",
+        "connects_to": [
+          "dark nighttime setting with silhouetted figures standing aga",
+          "in this vrchat environment, several avatars are gathered aro",
+          "nighttime virtual environment with purple ambient lighting",
+          "based on the images provided and analyzing their content, he",
+          "in this vrchat scene, we observe an environment where severa",
+          "based on the provided images and instructions, here's a stru",
+          "nighttime virtual environment with purple-hued lighting",
+          "based on the provided images and instructions, here is the d",
+          "based on the images provided and without any specific contex",
+          "last image contains a floating text bubble above the avatar ",
+          "indoor vrchat space at night with a purple and dark ambiance",
+          "scene takes place in an outdoor virtual environment at night",
+          "based on the provided images and instructions, here is a det",
+          "nighttime rooftop with artificial purple lighting featuring ",
+          "in a dark virtual space with ambient purple lighting from ab",
+          "using the provided vrchat frames captured over a span of thr",
+          "using the provided information and analyzing each element me",
+          "scene is set on a submarine-like structure floating amidst t",
+          "dark underwater environment with dim lighting and an eerie a",
+          "dark, mystical environment under a starry night sky",
+          "based on the provided images and instructions, here's a deta",
+          "dark nighttime virtual environment with eerie ambiance",
+          "dark, eerie nighttime scene with various architectural struc",
+          "environment depicted is an eerie, dark landscape at night",
+          "scene is a dimly lit virtual environment that appears eerie ",
+          "indoor virtual environment at night with a dark yet eerie mo",
+          "based on the provided image and instructions, here's a struc",
+          "based on the provided images and their context within vrchat",
+          "based on the provided images and their descriptions, here is",
+          "virtual environment with a nighttime setting featuring glowi"
+        ]
+      },
+      "in this vrchat environment, several avatars are gathered aro": {
+        "label": "in this vrchat environment, several avatars are gathered aro",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "based on the provided images and instructions, here's a stru"
+        ]
+      },
+      "in this vrchat scene, we observe an outdoor setting at night": {
+        "label": "in this vrchat scene, we observe an outdoor setting at night",
+        "connects_to": [
+          "based on the provided images and instructions, here's a stru"
+        ]
+      },
+      "dark, outdoor nighttime setting with silhouettes of figures ": {
+        "label": "dark, outdoor nighttime setting with silhouettes of figures ",
+        "connects_to": [
+          "based on the provided images and instructions, here's a stru",
+          "in this vrchat environment, two avatars are present: one wit"
+        ]
+      },
+      "in this vrchat environment, two avatars are present: one wit": {
+        "label": "in this vrchat environment, two avatars are present: one wit",
+        "connects_to": [
+          "dark, outdoor nighttime setting with silhouettes of figures ",
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "based on the provided images and instructions, here's a deta": {
+        "label": "based on the provided images and instructions, here's a deta",
+        "connects_to": [
+          "in this vrchat environment, two avatars are present: one wit",
+          "based on the information provided and adhering to privacy st",
+          "in a dark, starry night setting within vrchat, a central fig",
+          "['the scene is set outdoors during nighttime with dim ambien",
+          "nighttime virtual reality environment with several players p",
+          "scene displays an open-night sky with stars visible above",
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "nighttime virtual environment with dim lighting from various"
+        ]
+      },
+      "based on the images provided and following the instructions,": {
+        "label": "based on the images provided and following the instructions,",
+        "connects_to": [
+          "based on the images provided and their sequence, here's a de"
+        ]
+      },
+      "based on the images provided and their sequence, here's a de": {
+        "label": "based on the images provided and their sequence, here's a de",
+        "connects_to": [
+          "based on the images provided and following the instructions,",
+          "in this vrchat scene captured at night under moonlight, we s"
+        ]
+      },
+      "in this vrchat scene captured at night under moonlight, we s": {
+        "label": "in this vrchat scene captured at night under moonlight, we s",
+        "connects_to": [
+          "based on the images provided and their sequence, here's a de",
+          "virtual environment within vrchat featuring several avatars "
+        ]
+      },
+      "virtual environment within vrchat featuring several avatars ": {
+        "label": "virtual environment within vrchat featuring several avatars ",
+        "connects_to": [
+          "in this vrchat scene captured at night under moonlight, we s",
+          "nighttime virtual environment with purple ambient lighting"
+        ]
+      },
+      "nighttime virtual environment with purple ambient lighting": {
+        "label": "nighttime virtual environment with purple ambient lighting",
+        "connects_to": [
+          "virtual environment within vrchat featuring several avatars ",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the images provided and analyzing their content, he": {
+        "label": "based on the images provided and analyzing their content, he",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "in this vrchat scene, we observe an environment where severa": {
+        "label": "in this vrchat scene, we observe an environment where severa",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "based on the information provided and adhering to privacy st"
+        ]
+      },
+      "based on the information provided and adhering to privacy st": {
+        "label": "based on the information provided and adhering to privacy st",
+        "connects_to": [
+          "in this vrchat scene, we observe an environment where severa",
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "in a dark, starry night setting within vrchat, a central fig": {
+        "label": "in a dark, starry night setting within vrchat, a central fig",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "['the scene is set outdoors during nighttime with dim ambien": {
+        "label": "['the scene is set outdoors during nighttime with dim ambien",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta",
+          "in an immersive vr environment at night under starlight with"
+        ]
+      },
+      "in an immersive vr environment at night under starlight with": {
+        "label": "in an immersive vr environment at night under starlight with",
+        "connects_to": [
+          "['the scene is set outdoors during nighttime with dim ambien",
+          "according to the given image and its description here are so"
+        ]
+      },
+      "according to the given image and its description here are so": {
+        "label": "according to the given image and its description here are so",
+        "connects_to": [
+          "in an immersive vr environment at night under starlight with"
+        ]
+      },
+      "nighttime virtual reality environment with several players p": {
+        "label": "nighttime virtual reality environment with several players p",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta",
+          "scene shows a dark night environment with purple lighting"
+        ]
+      },
+      "scene shows a dark night environment with purple lighting": {
+        "label": "scene shows a dark night environment with purple lighting",
+        "connects_to": [
+          "nighttime virtual reality environment with several players p",
+          "based on the provided images and instructions, here's a stru"
+        ]
+      },
+      "according to the provided json structure for analysis: **sce": {
+        "label": "according to the provided json structure for analysis:\n\n**sc",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "based on the provided images and instructions, here is a det": {
+        "label": "based on the provided images and instructions, here is a det",
+        "connects_to": [
+          "according to the provided json structure for analysis: **sce",
+          "[3 sequential observations — ~3 seconds of continuous vrchat",
+          "night-time virtual environment with purple lighting",
+          "in a dark virtual environment with purple and pink hues unde",
+          "['environment type and atmosphere: the environment appears t",
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "nighttime virtual reality environment with an outdoor settin",
+          "using the provided vrchat frames captured over a span of thr",
+          "using the information from all five consecutive vrchat frame",
+          "night-time virtual environment with a dark sky filled with s",
+          "scene is set within vrchat where a player's avatar appears a",
+          "based on the images provided and following your instructions",
+          "scene is set on a submarine-like structure floating amidst t",
+          "based on the provided images and their consecutive nature as",
+          "scene depicts a nighttime underwater environment with stars ",
+          "in this nighttime virtual environment, an ethereal bridge co"
+        ]
+      },
+      "[3 sequential observations — ~3 seconds of continuous vrchat": {
+        "label": "[3 sequential observations — ~3 seconds of continuous vrchat",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "using the provided vrchat frames captured at three-second in",
+          "based on the provided images and information, here is a deta",
+          "nighttime virtual reality environment with an outdoor settin",
+          "in a dimly lit vr environment under the night sky with stars",
+          "in a vrchat environment depicted as nighttime with stars vis",
+          "based on the provided images and instructions, here is the d",
+          "based on the provided image frames and instructions, here is"
+        ]
+      },
+      "night-time virtual environment with purple lighting": {
+        "label": "night-time virtual environment with purple lighting",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "based on the provided images and instructions, here is the d"
+        ]
+      },
+      "based on the provided images and instructions, here is the d": {
+        "label": "based on the provided images and instructions, here is the d",
+        "connects_to": [
+          "night-time virtual environment with purple lighting",
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "in a dimly lit virtual environment with purple hues dominati",
+          "scene is a dimly lit virtual environment with purple ambient",
+          "according to the given information and instructions above, h",
+          "[3 sequential observations — ~3 seconds of continuous vrchat",
+          "using the provided images and their sequential nature, here'"
+        ]
+      },
+      "in a dark virtual environment with purple and pink hues unde": {
+        "label": "in a dark virtual environment with purple and pink hues unde",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "nighttime virtual environment with purple-hued lighting"
+        ]
+      },
+      "nighttime virtual environment with purple-hued lighting": {
+        "label": "nighttime virtual environment with purple-hued lighting",
+        "connects_to": [
+          "in a dark virtual environment with purple and pink hues unde",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "in a dimly lit virtual environment with purple hues dominati": {
+        "label": "in a dimly lit virtual environment with purple hues dominati",
+        "connects_to": [
+          "based on the provided images and instructions, here is the d",
+          "scene is set within vrchat during nighttime with a dark sky "
+        ]
+      },
+      "scene is set within vrchat during nighttime with a dark sky ": {
+        "label": "scene is set within vrchat during nighttime with a dark sky ",
+        "connects_to": [
+          "in a dimly lit virtual environment with purple hues dominati",
+          "nighttime virtual reality (vr) environment with a dark sky f"
+        ]
+      },
+      "nighttime virtual reality (vr) environment with a dark sky f": {
+        "label": "nighttime virtual reality (vr) environment with a dark sky f",
+        "connects_to": [
+          "scene is set within vrchat during nighttime with a dark sky ",
+          "based on the images provided and without any specific contex"
+        ]
+      },
+      "based on the images provided and without any specific contex": {
+        "label": "based on the images provided and without any specific contex",
+        "connects_to": [
+          "nighttime virtual reality (vr) environment with a dark sky f",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "last image contains a floating text bubble above the avatar ": {
+        "label": "last image contains a floating text bubble above the avatar ",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "indoor vrchat space at night with a purple and dark ambiance": {
+        "label": "indoor vrchat space at night with a purple and dark ambiance",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "scene takes place in an outdoor virtual environment at night": {
+        "label": "scene takes place in an outdoor virtual environment at night",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "nighttime virtual environment featuring an open space with d"
+        ]
+      },
+      "nighttime virtual environment featuring an open space with d": {
+        "label": "nighttime virtual environment featuring an open space with d",
+        "connects_to": [
+          "scene takes place in an outdoor virtual environment at night",
+          "nighttime virtual environment with dark sky and rocky ground"
+        ]
+      },
+      "nighttime virtual environment with dark sky and rocky ground": {
+        "label": "nighttime virtual environment with dark sky and rocky ground",
+        "connects_to": [
+          "nighttime virtual environment featuring an open space with d",
+          "scene appears to be a night-time virtual reality environment"
+        ]
+      },
+      "scene appears to be a night-time virtual reality environment": {
+        "label": "scene appears to be a night-time virtual reality environment",
+        "connects_to": [
+          "nighttime virtual environment with dark sky and rocky ground",
+          "scene is set within a virtual environment during nighttime"
+        ]
+      },
+      "scene is set within a virtual environment during nighttime": {
+        "label": "scene is set within a virtual environment during nighttime",
+        "connects_to": [
+          "scene appears to be a night-time virtual reality environment",
+          "virtual reality chat environment (vrchat) depicted at night "
+        ]
+      },
+      "virtual reality chat environment (vrchat) depicted at night ": {
+        "label": "virtual reality chat environment (vrchat) depicted at night ",
+        "connects_to": [
+          "scene is set within a virtual environment during nighttime",
+          "using the details from each of these images, here is a detai"
+        ]
+      },
+      "using the details from each of these images, here is a detai": {
+        "label": "using the details from each of these images, here is a detai",
+        "connects_to": [
+          "virtual reality chat environment (vrchat) depicted at night ",
+          "['environment type and atmosphere: the environment appears t"
+        ]
+      },
+      "['environment type and atmosphere: the environment appears t": {
+        "label": "['environment type and atmosphere: the environment appears t",
+        "connects_to": [
+          "using the details from each of these images, here is a detai",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "nighttime rooftop with artificial purple lighting featuring ": {
+        "label": "nighttime rooftop with artificial purple lighting featuring ",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "[4 sequential observations — ~4 seconds of continuous vrchat"
+        ]
+      },
+      "[4 sequential observations — ~4 seconds of continuous vrchat": {
+        "label": "[4 sequential observations — ~4 seconds of continuous vrchat",
+        "connects_to": [
+          "nighttime rooftop with artificial purple lighting featuring ",
+          "scene is a dimly lit virtual environment with purple ambient",
+          "vrchat environment at night with a dark atmosphere",
+          "underwater setting with artificial lights illuminating an un"
+        ]
+      },
+      "in a dark virtual space with ambient purple lighting from ab": {
+        "label": "in a dark virtual space with ambient purple lighting from ab",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "based on the provided images and their descriptions, here is"
+        ]
+      },
+      "based on the provided images and their descriptions, here is": {
+        "label": "based on the provided images and their descriptions, here is",
+        "connects_to": [
+          "in a dark virtual space with ambient purple lighting from ab",
+          "scene appears to be within a vrchat environment",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "scene appears to be within a vrchat environment": {
+        "label": "scene appears to be within a vrchat environment",
+        "connects_to": [
+          "based on the provided images and their descriptions, here is",
+          "based on the provided images and instructions, here is a str"
+        ]
+      },
+      "based on the provided images and instructions, here is a str": {
+        "label": "based on the provided images and instructions, here is a str",
+        "connects_to": [
+          "scene appears to be within a vrchat environment",
+          "[7 sequential observations — ~7 seconds of continuous vrchat"
+        ]
+      },
+      "[7 sequential observations — ~7 seconds of continuous vrchat": {
+        "label": "[7 sequential observations — ~7 seconds of continuous vrchat",
+        "connects_to": [
+          "based on the provided images and instructions, here is a str"
+        ]
+      },
+      "using the provided vrchat frames captured at three-second in": {
+        "label": "using the provided vrchat frames captured at three-second in",
+        "connects_to": [
+          "[3 sequential observations — ~3 seconds of continuous vrchat",
+          "based on the provided images and information, here is a deta"
+        ]
+      },
+      "based on the provided images and information, here is a deta": {
+        "label": "based on the provided images and information, here is a deta",
+        "connects_to": [
+          "using the provided vrchat frames captured at three-second in",
+          "[3 sequential observations — ~3 seconds of continuous vrchat"
+        ]
+      },
+      "nighttime virtual reality environment with an outdoor settin": {
+        "label": "nighttime virtual reality environment with an outdoor settin",
+        "connects_to": [
+          "[3 sequential observations — ~3 seconds of continuous vrchat",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "using the provided vrchat frames captured over a span of thr": {
+        "label": "using the provided vrchat frames captured over a span of thr",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "in a dimly lit vr environment under the night sky with stars": {
+        "label": "in a dimly lit vr environment under the night sky with stars",
+        "connects_to": [
+          "[3 sequential observations — ~3 seconds of continuous vrchat"
+        ]
+      },
+      "in a vrchat environment depicted as nighttime with stars vis": {
+        "label": "in a vrchat environment depicted as nighttime with stars vis",
+        "connects_to": [
+          "[3 sequential observations — ~3 seconds of continuous vrchat"
+        ]
+      },
+      "scene is a dimly lit virtual environment with purple ambient": {
+        "label": "scene is a dimly lit virtual environment with purple ambient",
+        "connects_to": [
+          "[4 sequential observations — ~4 seconds of continuous vrchat",
+          "based on the provided images and instructions, here is the d"
+        ]
+      },
+      "according to the given information and instructions above, h": {
+        "label": "according to the given information and instructions above, h",
+        "connects_to": [
+          "based on the provided images and instructions, here is the d",
+          "nighttime virtual environment with dark skies filled with st"
+        ]
+      },
+      "nighttime virtual environment with dark skies filled with st": {
+        "label": "nighttime virtual environment with dark skies filled with st",
+        "connects_to": [
+          "according to the given information and instructions above, h",
+          "based on the images provided and following the instructions "
+        ]
+      },
+      "based on the images provided and following the instructions ": {
+        "label": "based on the images provided and following the instructions ",
+        "connects_to": [
+          "nighttime virtual environment with dark skies filled with st",
+          "based on the images provided and the request for a detailed "
+        ]
+      },
+      "based on the images provided and the instructions given, her": {
+        "label": "based on the images provided and the instructions given, her",
+        "connects_to": [
+          "nighttime setting with a dark blue sky filled with stars"
+        ]
+      },
+      "nighttime setting with a dark blue sky filled with stars": {
+        "label": "nighttime setting with a dark blue sky filled with stars",
+        "connects_to": [
+          "based on the images provided and the instructions given, her"
+        ]
+      },
+      "in a virtual reality environment depicted as nighttime with ": {
+        "label": "in a virtual reality environment depicted as nighttime with ",
+        "connects_to": [
+          "vrchat environment depicted at night under starry skies with"
+        ]
+      },
+      "vrchat environment depicted at night under starry skies with": {
+        "label": "vrchat environment depicted at night under starry skies with",
+        "connects_to": [
+          "in a virtual reality environment depicted as nighttime with ",
+          "scene takes place at night with a dark blue starry sky"
+        ]
+      },
+      "scene takes place at night with a dark blue starry sky": {
+        "label": "scene takes place at night with a dark blue starry sky",
+        "connects_to": [
+          "vrchat environment depicted at night under starry skies with",
+          "based on the images provided and your instructions, here is "
+        ]
+      },
+      "based on the images provided and your instructions, here is ": {
+        "label": "based on the images provided and your instructions, here is ",
+        "connects_to": [
+          "scene takes place at night with a dark blue starry sky",
+          "dark nighttime scenery with stars and ambient lighting"
+        ]
+      },
+      "according to the provided image and instructions, here is a ": {
+        "label": "according to the provided image and instructions, here is a ",
+        "connects_to": [
+          "based on the images provided and without any additional cont"
+        ]
+      },
+      "based on the images provided and without any additional cont": {
+        "label": "based on the images provided and without any additional cont",
+        "connects_to": [
+          "according to the provided image and instructions, here is a ",
+          "scene is a dimly lit virtual environment during nighttime"
+        ]
+      },
+      "scene is a dimly lit virtual environment during nighttime": {
+        "label": "scene is a dimly lit virtual environment during nighttime",
+        "connects_to": [
+          "based on the images provided and without any additional cont",
+          "using the information from all five consecutive vrchat frame"
+        ]
+      },
+      "using the information from all five consecutive vrchat frame": {
+        "label": "using the information from all five consecutive vrchat frame",
+        "connects_to": [
+          "scene is a dimly lit virtual environment during nighttime",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "using the provided images and their sequential nature, here'": {
+        "label": "using the provided images and their sequential nature, here'",
+        "connects_to": [
+          "based on the provided images and instructions, here is the d"
+        ]
+      },
+      "night-time virtual environment with a dark sky filled with s": {
+        "label": "night-time virtual environment with a dark sky filled with s",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "based on the images provided and their sequence, here is a d": {
+        "label": "based on the images provided and their sequence, here is a d",
+        "connects_to": [
+          "nighttime virtual reality environment with artificial lighti"
+        ]
+      },
+      "nighttime virtual reality environment with artificial lighti": {
+        "label": "nighttime virtual reality environment with artificial lighti",
+        "connects_to": [
+          "based on the images provided and their sequence, here is a d"
+        ]
+      },
+      "based on the provided image frames and instructions, here is": {
+        "label": "based on the provided image frames and instructions, here is",
+        "connects_to": [
+          "scene is set within vrchat where a player's avatar appears a",
+          "[3 sequential observations — ~3 seconds of continuous vrchat"
+        ]
+      },
+      "scene is set within vrchat where a player's avatar appears a": {
+        "label": "scene is set within vrchat where a player's avatar appears a",
+        "connects_to": [
+          "based on the provided image frames and instructions, here is",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "based on the images provided and following your instructions": {
+        "label": "based on the images provided and following your instructions",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "using the information from all five frames and combining the",
+          "night-time virtual setting with dark and purple ambient ligh"
+        ]
+      },
+      "using the information from all five frames and combining the": {
+        "label": "using the information from all five frames and combining the",
+        "connects_to": [
+          "based on the images provided and following your instructions",
+          "scene unfolds within a virtual reality environment"
+        ]
+      },
+      "scene unfolds within a virtual reality environment": {
+        "label": "scene unfolds within a virtual reality environment",
+        "connects_to": [
+          "using the information from all five frames and combining the",
+          "two players interacting within a dimly-lit, atmospheric envi"
+        ]
+      },
+      "two players interacting within a dimly-lit, atmospheric envi": {
+        "label": "two players interacting within a dimly-lit, atmospheric envi",
+        "connects_to": [
+          "scene unfolds within a virtual reality environment"
+        ]
+      },
+      "urban environment": {
+        "label": "urban environment",
+        "connects_to": [
+          "nighttime vrchat environment with a dark, industrial aesthet"
+        ]
+      },
+      "nighttime vrchat environment with a dark, industrial aesthet": {
+        "label": "nighttime vrchat environment with a dark, industrial aesthet",
+        "connects_to": [
+          "urban environment"
+        ]
+      },
+      "night-time virtual setting with dark and purple ambient ligh": {
+        "label": "night-time virtual setting with dark and purple ambient ligh",
+        "connects_to": [
+          "based on the images provided and following your instructions"
+        ]
+      },
+      "this vrchat screenshot depicts an atmospheric scene set at n": {
+        "label": "this vrchat screenshot depicts an atmospheric scene set at n",
+        "connects_to": [
+          "using the provided information and analyzing each element me"
+        ]
+      },
+      "using the provided information and analyzing each element me": {
+        "label": "using the provided information and analyzing each element me",
+        "connects_to": [
+          "this vrchat screenshot depicts an atmospheric scene set at n",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "scene is set on a submarine-like structure floating amidst t": {
+        "label": "scene is set on a submarine-like structure floating amidst t",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "dark underwater environment with dim lighting and an eerie a": {
+        "label": "dark underwater environment with dim lighting and an eerie a",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "using the provided images and instructions, here is a detail"
+        ]
+      },
+      "using the provided images and instructions, here is a detail": {
+        "label": "using the provided images and instructions, here is a detail",
+        "connects_to": [
+          "dark underwater environment with dim lighting and an eerie a",
+          "based on the provided images and their consecutive nature as"
+        ]
+      },
+      "based on the provided images and their consecutive nature as": {
+        "label": "based on the provided images and their consecutive nature as",
+        "connects_to": [
+          "using the provided images and instructions, here is a detail",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "scene depicts a nighttime underwater environment with stars ": {
+        "label": "scene depicts a nighttime underwater environment with stars ",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "in this nighttime virtual environment, an ethereal bridge co"
+        ]
+      },
+      "in this nighttime virtual environment, an ethereal bridge co": {
+        "label": "in this nighttime virtual environment, an ethereal bridge co",
+        "connects_to": [
+          "scene depicts a nighttime underwater environment with stars ",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "scene displays an open-night sky with stars visible above": {
+        "label": "scene displays an open-night sky with stars visible above",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "dark, mystical environment under a starry night sky": {
+        "label": "dark, mystical environment under a starry night sky",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the images provided and the request for a detailed ": {
+        "label": "based on the images provided and the request for a detailed ",
+        "connects_to": [
+          "based on the images provided and following the instructions ",
+          "underwater environment at night"
+        ]
+      },
+      "underwater environment at night": {
+        "label": "underwater environment at night",
+        "connects_to": [
+          "based on the images provided and the request for a detailed "
+        ]
+      },
+      "based on the provided images and their sequential arrangemen": {
+        "label": "based on the provided images and their sequential arrangemen",
+        "connects_to": [
+          "nighttime virtual reality environment with an ancient or mys"
+        ]
+      },
+      "nighttime virtual reality environment with an ancient or mys": {
+        "label": "nighttime virtual reality environment with an ancient or mys",
+        "connects_to": [
+          "based on the provided images and their sequential arrangemen"
+        ]
+      },
+      "dark and mysterious virtual environment with an ominous tone": {
+        "label": "dark and mysterious virtual environment with an ominous tone",
+        "connects_to": [
+          "in this vrchat scene captured 3 seconds apart, we see an out"
+        ]
+      },
+      "in this vrchat scene captured 3 seconds apart, we see an out": {
+        "label": "in this vrchat scene captured 3 seconds apart, we see an out",
+        "connects_to": [
+          "dark and mysterious virtual environment with an ominous tone",
+          "outdoor nighttime setting"
+        ]
+      },
+      "outdoor nighttime setting": {
+        "label": "outdoor nighttime setting",
+        "connects_to": [
+          "in this vrchat scene captured 3 seconds apart, we see an out",
+          "based on the provided vrchat frames and instructions, here i"
+        ]
+      },
+      "based on the provided vrchat frames and instructions, here i": {
+        "label": "based on the provided vrchat frames and instructions, here i",
+        "connects_to": [
+          "outdoor nighttime setting",
+          "vrchat environment at night with a dark atmosphere"
+        ]
+      },
+      "vrchat environment at night with a dark atmosphere": {
+        "label": "vrchat environment at night with a dark atmosphere",
+        "connects_to": [
+          "based on the provided vrchat frames and instructions, here i",
+          "[4 sequential observations — ~4 seconds of continuous vrchat"
+        ]
+      },
+      "nighttime virtual environment with dim lighting from various": {
+        "label": "nighttime virtual environment with dim lighting from various",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta",
+          "using the information from these five consecutive vrchat fra"
+        ]
+      },
+      "using the information from these five consecutive vrchat fra": {
+        "label": "using the information from these five consecutive vrchat fra",
+        "connects_to": [
+          "nighttime virtual environment with dim lighting from various",
+          "dark nighttime virtual environment with eerie ambiance"
+        ]
+      },
+      "dark nighttime virtual environment with eerie ambiance": {
+        "label": "dark nighttime virtual environment with eerie ambiance",
+        "connects_to": [
+          "using the information from these five consecutive vrchat fra",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "dark, eerie nighttime scene with various architectural struc": {
+        "label": "dark, eerie nighttime scene with various architectural struc",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "environment depicted is an eerie, dark landscape at night"
+        ]
+      },
+      "environment depicted is an eerie, dark landscape at night": {
+        "label": "environment depicted is an eerie, dark landscape at night",
+        "connects_to": [
+          "dark, eerie nighttime scene with various architectural struc",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "scene is a dimly lit virtual environment that appears eerie ": {
+        "label": "scene is a dimly lit virtual environment that appears eerie ",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "underwater setting with artificial lights illuminating an un": {
+        "label": "underwater setting with artificial lights illuminating an un",
+        "connects_to": [
+          "[4 sequential observations — ~4 seconds of continuous vrchat",
+          "based on the provided images and descriptions, here's a deta"
+        ]
+      },
+      "based on the provided images and descriptions, here's a deta": {
+        "label": "based on the provided images and descriptions, here's a deta",
+        "connects_to": [
+          "underwater setting with artificial lights illuminating an un"
+        ]
+      },
+      "dark nighttime scenery with stars and ambient lighting": {
+        "label": "dark nighttime scenery with stars and ambient lighting",
+        "connects_to": [
+          "based on the images provided and your instructions, here is "
+        ]
+      },
+      "indoor virtual environment at night with a dark yet eerie mo": {
+        "label": "indoor virtual environment at night with a dark yet eerie mo",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the provided image and instructions, here's a struc": {
+        "label": "based on the provided image and instructions, here's a struc",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the provided images and their context within vrchat": {
+        "label": "based on the provided images and their context within vrchat",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the images provided and your instructions, here's a": {
+        "label": "based on the images provided and your instructions, here's a",
+        "connects_to": [
+          "night-time virtual reality environment with a mystical or ee"
+        ]
+      },
+      "night-time virtual reality environment with a mystical or ee": {
+        "label": "night-time virtual reality environment with a mystical or ee",
+        "connects_to": [
+          "based on the images provided and your instructions, here's a"
+        ]
+      },
+      "virtual environment with a nighttime setting featuring glowi": {
+        "label": "virtual environment with a nighttime setting featuring glowi",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      }
+    },
+    "occupancy_grid": {
+      "0,0": 1,
+      "0,2": 1
+    }
+  }
+}

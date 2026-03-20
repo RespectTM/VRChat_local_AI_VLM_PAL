@@ -1,0 +1,344 @@
+{
+  "Punish": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Dark outfit and silhouette in an indoor setting"
+    ]
+  },
+  "Lago (partially cut off)": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Unknown avatar details, possibly a dark color theme."
+    ]
+  },
+  "Elders": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Not specifically detailed, positioned near center-left in the first image."
+    ]
+  },
+  "<name> [text that is difficult to read]": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Off-frame."
+    ]
+  },
+  "[Incomprehensible name] [Incomprehensible name]": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Not clearly visible due to being off-frame or out of view"
+    ]
+  },
+  "[Incomprehensible name]": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Not clearly visible due to being off-frame or out of view.",
+      "Not clearly visible due to being off-frame or out of view"
+    ]
+  },
+  "mari": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "[...]eek"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20"
+  },
+  "Hm": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Humanoid with pinkish glowing elements on the body, located in a dark environment."
+    ]
+  },
+  "Darkness": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Degenp"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Human-like avatar floating above its own head. The specific details of this avatar are not clear from these angles."
+    ]
+  },
+  "Cerberus": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Empty string"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20"
+  },
+  "Jaxx": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Loio": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Black rectangular figure with pink highlights, possibly a stylized character or placeholder."
+    ]
+  },
+  "?Loio": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Character with gray skin, wearing a dark outfit."
+    ]
+  },
+  "...the": {
+    "first_seen": "2026-03-20",
+    "seen_count": 7,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Make your choice, innovator",
+      "Deserter,",
+      "Later,",
+      "S...",
+      "Deserter",
+      "... the"
+    ],
+    "relationship_score": 6,
+    "last_seen": "2026-03-20"
+  },
+  "http://.../G41": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Unknown, as the avatar's appearance is not visible in this image."
+    ]
+  },
+  "Deadpool": {
+    "first_seen": "2026-03-20",
+    "seen_count": 4,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "online",
+      "@username",
+      "Degenoah"
+    ],
+    "relationship_score": 3,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Humanoid avatar with glowing lines around it."
+    ]
+  },
+  "Vigil": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Degenohai"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20"
+  },
+  "json": {
+    "first_seen": "2026-03-20",
+    "seen_count": 5,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Traveler",
+      "Make your choice, traveler",
+      "...later"
+    ],
+    "relationship_score": 3,
+    "last_seen": "2026-03-20"
+  },
+  "names\": []": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Lilpeter": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Unknown species, dark silhouette with pink glowing accents."
+    ]
+  },
+  "{\"names\": []}": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Degenoah": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Degenohah"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "A floating name tag indicating this player's presence at the top of their head."
+    ]
+  }
+}

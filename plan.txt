@@ -1,0 +1,146 @@
+NAMETAG & PEOPLE RECOGNITION — 100-Step Implementation Plan
+=============================================================
+Created : March 19, 2026
+Author  : GitHub Copilot (Claude Sonnet 4.6)
+Goal    : Build surveillance-grade multi-layer visual name recognition
+          matching the depth and reliability the user demands.
+
+"How come surveillance cameras can recognize people and this AI can't
+ with the good views..." — the user. Valid complaint. Let's fix it.
+
+PHASES:
+  Phase 1  — People Gallery        (Steps   1–30)
+  Phase 2  — Image Enhancement     (Steps  31–55)
+  Phase 3  — Name Validation       (Steps  56–65)
+  Phase 4  — Prompt Library        (Steps  66–77)
+  Phase 5  — Recognition Pipeline  (Steps  78–91)
+  Phase 6  — Nametag Reader        (Steps  92–99)
+  Phase 7  — Full Integration      (Step  100)
+=============================================================
+
+PHASE 1 — People Gallery (people_gallery.py)
+----------------------------------------------
+[✓] Step   1  Plan created — plan.txt written to disk
+[✓] Step   2  people_gallery.py: module header, imports, constants
+[✓] Step   3  people_gallery.py: GalleryPerson dataclass + to_dict/from_dict
+[✓] Step   4  people_gallery.py: PersonSighting dataclass + to_dict/from_dict
+[✓] Step   5  people_gallery.py: UnknownPerson dataclass with resolved_as field
+[✓] Step   6  people_gallery.py: GalleryStats dataclass + summary() method
+[✓] Step   7  people_gallery.py: PeopleGallery.__init__() — dirs created, lock set
+[✓] Step   8  people_gallery.py: PeopleGallery._load() — error-resilient JSON load
+[✓] Step   9  people_gallery.py: PeopleGallery.save() — atomic write-then-rename
+[✓] Step  10  people_gallery.py: add_known_person() — upsert with world/kw tracking
+[✓] Step  11  people_gallery.py: get_person() — O(1) name lookup
+[✓] Step  12  people_gallery.py: all_known_names() — sorted list
+[✓] Step  13  people_gallery.py: search_by_name_fuzzy() — Jaro-Winkler similarity
+[✓] Step  14  people_gallery.py: _add_ref_crop_internal() — copy + MAX_REF cap
+[✓] Step  15  people_gallery.py: add_reference_crop() — public API with lock
+[✓] Step  16  people_gallery.py: get_best_reference() — most recent valid path
+[✓] Step  17  people_gallery.py: add_sighting() — timestamped sighting log
+[✓] Step  18  people_gallery.py: add_unknown_person() — auto-ID + similarity dedup
+[✓] Step  19  people_gallery.py: _find_similar_unknown_internal() — Jaccard desc
+[✓] Step  20  people_gallery.py: _evict_oldest_unknown() — cap at MAX_UNKNOWN=100
+[✓] Step  21  people_gallery.py: get_unknown_persons() — sorted by last_seen
+[✓] Step  22  people_gallery.py: promote_unknown_to_known() — full state machine
+[✓] Step  23  people_gallery.py: expire_old_unknowns() — 7-day TTL eviction
+[✓] Step  24  people_gallery.py: cleanup() — expire + save one-liner
+[✓] Step  25  people_gallery.py: stats() → GalleryStats report
+[✓] Step  26  people_gallery.py: context_for_names() — think-model context block
+[✓] Step  27  people_gallery.py: get_unresolved_crops() — feed resolver queue
+[✓] Step  28  people_gallery.py: rebuild_index() — disaster recovery disk scan
+[✓] Step  29  people_gallery.py: _jaro_winkler() — pure-Python, no deps
+[✓] Step  30  people_gallery.py: File written to disk ✓
+
+PHASE 2 — Image Enhancement (image_enhance.py)
+------------------------------------------------
+[✓] Step  31  image_enhance.py: module header + CropVariant dataclass
+[✓] Step  32  image_enhance.py: crop_nametag_strip() — top 55%, full width
+[✓] Step  33  image_enhance.py: crop_upper_half() — top 50%
+[✓] Step  34  image_enhance.py: crop_top_quarter() — top 25%
+[✓] Step  35  image_enhance.py: crop_upper_center() — top 45%, center 70%
+[✓] Step  36  image_enhance.py: crop_tiled_3x3() — 9 equal tiles, all returned
+[✓] Step  37  image_enhance.py: upscale() — configurable factor, Lanczos resample
+[✓] Step  38  image_enhance.py: apply_sharpen() — configurable N-pass PIL sharpen
+[✓] Step  39  image_enhance.py: apply_unsharp_mask() — fine edge enhancement
+[✓] Step  40  image_enhance.py: apply_contrast_stretch() — 2nd–98th percentile
+[✓] Step  41  image_enhance.py: apply_brightness_normalize() — mean→target
+[✓] Step  42  image_enhance.py: apply_gamma() — power-law gamma correction
+[✓] Step  43  image_enhance.py: apply_denoise() — 3×3 median filter
+[✓] Step  44  image_enhance.py: apply_edge_enhance() — EDGE_ENHANCE_MORE
+[✓] Step  45  image_enhance.py: to_grayscale_rgb() — L→RGB for vision model
+[✓] Step  46  image_enhance.py: text_region_boost() — brighten high-luminance px
+[✓] Step  47  image_enhance.py: image_blur_score() — Laplacian variance proxy
+[✓] Step  48  image_enhance.py: image_quality_score() — blur + contrast combined
+[✓] Step  49  image_enhance.py: enhancement_chain() — ordered processing pipeline
+[✓] Step  50  image_enhance.py: all_crop_variants() — 6 crops × 2 scales = 12
+[✓] Step  51  image_enhance.py: build_all_variants() → List[CropVariant]
+[✓] Step  52  image_enhance.py: choose_best_variant() — highest quality score
+[✓] Step  53  image_enhance.py: save_enhanced_with_sidecar() — PNG + JSON pair
+[✓] Step  54  image_enhance.py: load_sidecar_metadata() — reads companion JSON
+[✓] Step  55  image_enhance.py: File written to disk ✓
+
+PHASE 3 — Name Validation (name_validator.py)
+----------------------------------------------
+[✓] Step  56  name_validator.py: module header + BLACKLIST set (50+ entries)
+[✓] Step  57  name_validator.py: INVALID_PATTERNS — regex noise list
+[✓] Step  58  name_validator.py: is_valid_name() — length, chars, blacklist check
+[✓] Step  59  name_validator.py: clean_raw_name() — strip markers, quotes, noise
+[✓] Step  60  name_validator.py: extract_names_from_json() — {"names": [...]}
+[✓] Step  61  name_validator.py: extract_names_from_lines() — plain text fallback
+[✓] Step  62  name_validator.py: extract_names_from_raw() — auto-detect format
+[✓] Step  63  name_validator.py: levenshtein_distance() — DP, pure Python
+[✓] Step  64  name_validator.py: fuzzy_match_known() — closest known name
+[✓] Step  65  name_validator.py: deduplicate_names() + File written to disk ✓
+
+PHASE 4 — Prompt Library (prompt_library.py)
+---------------------------------------------
+[✓] Step  66  prompt_library.py: module header + PromptEntry namedtuple
+[✓] Step  67  prompt_library.py: PROMPT_JSON_STRUCTURED — {"names": [...]}
+[✓] Step  68  prompt_library.py: PROMPT_PLAIN_TEXT — directive list
+[✓] Step  69  prompt_library.py: PROMPT_OCR_ENGINE — OCR mode
+[✓] Step  70  prompt_library.py: PROMPT_CHAR_BY_CHAR — character-level
+[✓] Step  71  prompt_library.py: PROMPT_FLOATING_WHITE_TEXT — color-aware VRChat
+[✓] Step  72  prompt_library.py: PROMPT_PARTIAL_OK — accept partial text
+[✓] Step  73  prompt_library.py: PROMPT_TOP_REGION_FOCUS — spatial instruction
+[✓] Step  74  prompt_library.py: PROMPT_MULTI_PLAYER_ALL — extract all tags
+[✓] Step  75  prompt_library.py: PROMPT_DESPERATE — last-resort effort
+[✓] Step  76  prompt_library.py: make_hint_prompt() — inject known names context
+[✓] Step  77  prompt_library.py: get_all_prompts() + File written to disk ✓
+
+PHASE 5 — Recognition Pipeline (recognition_pipeline.py)
+----------------------------------------------------------
+[✓] Step  78  recognition_pipeline.py: module header + imports
+[✓] Step  79  recognition_pipeline.py: RecognitionAttempt dataclass
+[✓] Step  80  recognition_pipeline.py: RecognitionResult dataclass
+[✓] Step  81  recognition_pipeline.py: PipelineMetrics dataclass
+[✓] Step  82  recognition_pipeline.py: NameRecognizer class skeleton
+[✓] Step  83  recognition_pipeline.py: __init__() — vision_fn, gallery, config
+[✓] Step  84  recognition_pipeline.py: recognize() — main entry, all variants
+[✓] Step  85  recognition_pipeline.py: _process_variant() — per-crop attempt loop
+[✓] Step  86  recognition_pipeline.py: _query_until_success() — prompt iteration
+[✓] Step  87  recognition_pipeline.py: _vote_on_candidates() — majority vote
+[✓] Step  88  recognition_pipeline.py: _score_result() — multi-factor confidence
+[✓] Step  89  recognition_pipeline.py: _should_stop_early() — fast-exit logic
+[✓] Step  90  recognition_pipeline.py: metrics property + reset_metrics()
+[✓] Step  91  recognition_pipeline.py: File written to disk ✓
+
+PHASE 6 — Nametag Reader Rewrite (nametag_reader.py)
+------------------------------------------------------
+[✓] Step  92  nametag_reader.py: Full rewrite — module header + imports
+[✓] Step  93  nametag_reader.py: NametegResolver class kept for backward compat
+[✓] Step  94  nametag_reader.py: __init__() — wire gallery + recognizer
+[✓] Step  95  nametag_reader.py: start() / stop() thread lifecycle
+[✓] Step  96  nametag_reader.py: enqueue_frame() — dedup + priority queue
+[✓] Step  97  nametag_reader.py: save_known_person() — gallery + reference crop
+[✓] Step  98  nametag_reader.py: _run() — worker loop with backoff
+[✓] Step  99  nametag_reader.py: _resolve() — full pipeline drive ✓
+
+PHASE 7 — Full Integration
+----------------------------
+[✓] Step 100  main.py: gallery init/drain/context
+              dashboard.py: recognition card, /gallery + /gallery/img endpoints
+              config.yaml: recognition section added ✓
+
+=============================================================
+ALL 100 STEPS COMPLETE
+=============================================================
