@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-03-20T01:06:08",
+  "saved_at": "2026-03-20T22:33:24",
   "known": [
     {
       "name": "Punish",
@@ -195,9 +195,11 @@
       "name": "json",
       "first_seen": "2026-03-20",
       "last_seen": "2026-03-20",
-      "sighting_count": 2,
+      "sighting_count": 6,
       "ref_crop_paths": [
-        "snapshots/gallery\\known\\json\\ref_000.png"
+        "snapshots/gallery\\known\\json\\ref_000.png",
+        "snapshots/gallery\\known\\json\\ref_001.png",
+        "snapshots/gallery\\known\\json\\ref_002.png"
       ],
       "avatar_keywords": [],
       "worlds_met": [
@@ -237,9 +239,10 @@
       "name": "names\": []",
       "first_seen": "2026-03-20",
       "last_seen": "2026-03-20",
-      "sighting_count": 3,
+      "sighting_count": 5,
       "ref_crop_paths": [
-        "snapshots/gallery\\known\\names__ []\\ref_000.png"
+        "snapshots/gallery\\known\\names__ []\\ref_000.png",
+        "snapshots/gallery\\known\\names__ []\\ref_001.png"
       ],
       "avatar_keywords": [],
       "worlds_met": [
@@ -251,12 +254,16 @@
       "name": "{\"names\": []}",
       "first_seen": "2026-03-20",
       "last_seen": "2026-03-20",
-      "sighting_count": 1,
+      "sighting_count": 4,
       "ref_crop_paths": [
-        "snapshots/gallery\\known\\{_names__ []}\\ref_000.png"
+        "snapshots/gallery\\known\\{_names__ []}\\ref_000.png",
+        "snapshots/gallery\\known\\{_names__ []}\\ref_001.png",
+        "snapshots/gallery\\known\\{_names__ []}\\ref_002.png"
       ],
       "avatar_keywords": [],
-      "worlds_met": [],
+      "worlds_met": [
+        "Space world"
+      ],
       "sightings": []
     },
     {
@@ -265,6 +272,294 @@
       "last_seen": "2026-03-20",
       "sighting_count": 1,
       "ref_crop_paths": [],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "<NAME>",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\_NAME_\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "LOU",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\LOU\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "?Noah",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\_Noah\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "Raven1938256017140",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Raven1938256017140\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "Code_Shadow",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Code_Shadow\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "PuddleDash",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\PuddleDash\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Traveler_Observer",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "PuddleDash1",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\PuddleDash1\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [],
+      "sightings": []
+    },
+    {
+      "name": "Code Shadow",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Code Shadow\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "PuddlesDash",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\PuddlesDash\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "PuddleDust",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\PuddleDust\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "<Not present as no floating white labels indicating player names>",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\_Not present as no floating white labels indicating player n\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "#68357 Group Public\nW 🖊️ | E 22",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\#68357 Group Public_W 🖊️ _ E 22\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "#66083 Group Public",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\#66083 Group Public\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "#70200 Group Public\nE 📝 | W 📛",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\#70200 Group Public_E 📝 _ W 📛\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Evening",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Unknown player (distance from camera)",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Evening - Foggy",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 1,
+      "ref_crop_paths": [],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "HP: 100%",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\HP_ 100%\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Coins :0",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Coins _0\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Level 1",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Level 1\\ref_000.png"
+      ],
+      "avatar_keywords": [],
+      "worlds_met": [
+        "Space world"
+      ],
+      "sightings": []
+    },
+    {
+      "name": "Evening - Clear Welcome",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "sighting_count": 2,
+      "ref_crop_paths": [
+        "snapshots/gallery\\known\\Evening - Clear Welcome\\ref_000.png"
+      ],
       "avatar_keywords": [],
       "worlds_met": [
         "Space world"
@@ -280,6 +575,32 @@
       "sighting_count": 1,
       "crop_paths": [
         "snapshots/gallery\\unknown\\unk_1773960933\\crop_000.png"
+      ],
+      "avatar_desc": "",
+      "resolution_attempts": 0,
+      "resolved_as": "{\"names\": []}",
+      "next_retry_after": 0.0
+    },
+    {
+      "uid": "unk_1774037862",
+      "first_seen": "2026-03-20 22:17:42",
+      "last_seen": "2026-03-20 22:17:42",
+      "sighting_count": 1,
+      "crop_paths": [
+        "snapshots/gallery\\unknown\\unk_1774037862\\crop_000.png"
+      ],
+      "avatar_desc": "",
+      "resolution_attempts": 0,
+      "resolved_as": "names\": []",
+      "next_retry_after": 0.0
+    },
+    {
+      "uid": "unk_1774038261",
+      "first_seen": "2026-03-20 22:24:21",
+      "last_seen": "2026-03-20 22:24:21",
+      "sighting_count": 1,
+      "crop_paths": [
+        "snapshots/gallery\\unknown\\unk_1774038261\\crop_000.png"
       ],
       "avatar_desc": "",
       "resolution_attempts": 0,

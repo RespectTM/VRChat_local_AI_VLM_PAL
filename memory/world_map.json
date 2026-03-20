@@ -1,22 +1,8 @@
 {
   "Space world": {
     "first_seen": "2026-03-19",
-    "observations": 237,
+    "observations": 303,
     "signs": [
-      "buttons",
-      "floating_labels",
-      "posters",
-      "graffiti",
-      "writing_on_walls_objects_floor",
-      "<floating_label>",
-      "/world loading text/",
-      "/noticeboard message/",
-      "circular portal with 'teleport' label",
-      "EVERY piece_of_readable_text_anywhere_in_the_image",
-      "Make your choice, traveler.",
-      "GATE",
-      "Rabbids till April 1st, 2026.",
-      "Accept Sharing From",
       "Allow Pedestal Sharing",
       "UI Elements",
       "Welcome to VR Chat Start Here",
@@ -43,64 +29,78 @@
       "Make your choice, traveler",
       "Degenonah",
       "Degenoa",
-      "Make your choice, traveller"
+      "Make your choice, traveller",
+      "See you around, nice to meet",
+      "well, see you around, nice to meel",
+      "Meww",
+      "Code_Shadow",
+      "New Instance, Preload World, Add To Favorites, View On Website, New Installation, Enjoy a full progression system and catch over 20000+ unique fish!, Catch > Sell, Go to this instance",
+      "Group Public\nE 📝 | W 📛",
+      "QR code for user interaction",
+      "SELL HERE UPGRADES",
+      "E: Interact",
+      "P: Place Pet",
+      "T: Spawn Rod",
+      "B: Open Backpack",
+      "The Black Cat",
+      "Tier 1"
     ],
     "areas": [
-      "scene depicts a nighttime underwater environment with stars visible in the sky",
-      "in this nighttime virtual environment, an ethereal bridge connects two floating platfor…",
-      "in this vrchat environment, it appears to be nighttime",
-      "scene displays an open-night sky with stars visible above",
-      "dark, mystical environment under a starry night sky",
-      "based on the provided images and instructions, here is the detailed analysis:\n\n**scene*…",
-      "underwater environment at night",
-      "dark nighttime setting with starry sky; environment appears to be in an open area with …",
-      "based on the provided images and their sequential arrangement, here is a detailed descr…",
-      "nighttime virtual reality environment with an ancient or mystical theme",
-      "in this vrchat scene captured 3 seconds apart, we see an outdoor nighttime environment …",
-      "outdoor nighttime setting",
-      "vrchat environment at night with a dark atmosphere",
+      "based on the provided images and instructions, here is the detailed analysis as request…",
+      "based on the provided frames and their sequential nature, here's a detailed analysis of…",
+      "based on the provided images and instructions, here's a detailed analysis:\n\n### scene d…",
+      "nighttime virtual reality environment with purple ambient lighting",
+      "nighttime scene within vrchat featuring an outdoor environment with glowing purple ground",
+      "scene is a nighttime virtual environment on an outdoor platform with purple ambient lig…",
+      "based on the provided images and instructions, here's a detailed description of each vr…",
+      "based on the provided images and instructions, here is a detailed analysis of each vrch…",
+      "based on the provided images and instructions, here's a detailed analysis of each eleme…",
+      "based on the provided images and instructions, here is a detailed analysis of vrchat fr…",
+      "scene unfolds within the \"spotlight cross platform\" section of vrchat",
+      "<vrchat game lobby interface>",
       "based on the provided images and instructions, here's a detailed analysis of each vrcha…",
-      "nighttime virtual environment with dim lighting from various objects",
-      "using the information from these five consecutive vrchat frames captured over a span of…",
-      "dark nighttime virtual environment with eerie ambiance",
-      "dark, eerie nighttime scene with various architectural structures such as arches and a …",
-      "environment depicted is an eerie, dark landscape at night",
-      "scene is a dimly lit virtual environment that appears eerie and desolate",
-      "underwater setting with artificial lights illuminating an underwater structure",
-      "based on the provided images and descriptions, here's a detailed analysis:\n\n**scene**: …",
-      "dark nighttime scenery with stars and ambient lighting",
-      "dark virtual environment with a starry sky and illuminated structures",
-      "based on the provided images and their context within vrchat gameplay, here is a detail…",
-      "based on the provided image frames and instructions, here is a detailed description for…",
-      "night-time virtual reality environment with a mystical or eerie atmosphere",
-      "based on the provided images and instructions, here is a detailed description of each e…",
-      "based on the provided images and their descriptions, here is a detailed analysis of eac…",
-      "virtual environment with a nighttime setting featuring glowing purple ground"
+      "in vrchat, players are interacting with different virtual environments",
+      "based on the provided images and instructions, here is a detailed json representation o…",
+      "based on the provided images and their sequential nature, here's a detailed analysis:\n\n…",
+      "based on the provided images and their descriptions, here is a detailed analysis:\n\n**fr…",
+      "environment",
+      "based on the provided images and their sequence, here's a detailed analysis:\n\n**scene d…",
+      "['festive atmosphere in vrchat, inviting users to a disco-themed party",
+      "lobby or social area",
+      "virtual reality chat room environment",
+      "based on the provided images and instructions, here is a detailed json report of the vr…",
+      "according to the given json structure and instructions for creating a detailed analysis…",
+      "nighttime virtual environment with a clear view of stars and palm trees",
+      "based on the provided images and their timestamps, here is a detailed analysis of each …",
+      "based on the provided images and instructions, here is the detailed analysis captured f…",
+      "bustling virtual lounge known as 'the black cat', featuring modern decor with a warm am…",
+      "modern indoor environment with wooden walls and floors",
+      "modern virtual room with wooden walls and flooring is shown"
     ],
     "last_seen": "2026-03-20",
     "visitor_counts": [
       0,
+      1,
       0,
+      2,
+      0,
+      1,
       0,
       2,
       1,
       0,
-      1,
+      0,
+      0,
       0,
       1,
       0,
-      1,
-      1,
-      1,
-      0,
-      1,
       0,
       0,
       2,
-      0,
-      2
+      1,
+      1
     ],
-    "typical_crowd": 0.7,
+    "typical_crowd": 0.6,
     "topology": {
       "scene appears to be set within a virtual environment at nigh": {
         "label": "scene appears to be set within a virtual environment at nigh",
@@ -257,7 +257,11 @@
           "based on the provided image and instructions, here's a struc",
           "based on the provided images and their context within vrchat",
           "based on the provided images and their descriptions, here is",
-          "virtual environment with a nighttime setting featuring glowi"
+          "virtual environment with a nighttime setting featuring glowi",
+          "nighttime virtual reality environment with floating glowing ",
+          "based on the analysis of the provided frames from vrchat, he",
+          "based on the provided frames and their sequential nature, he",
+          "nighttime scene within vrchat featuring an outdoor environme"
         ]
       },
       "in this vrchat environment, several avatars are gathered aro": {
@@ -297,7 +301,12 @@
           "nighttime virtual reality environment with several players p",
           "scene displays an open-night sky with stars visible above",
           "[2 sequential observations — ~2 seconds of continuous vrchat",
-          "nighttime virtual environment with dim lighting from various"
+          "nighttime virtual environment with dim lighting from various",
+          "in a dimly lit virtual environment with an eerie atmosphere ",
+          "nighttime environment within vrchat featuring floating stars",
+          "nighttime virtual reality environment with purple ambient li",
+          "scene is a nighttime virtual environment on an outdoor platf",
+          "based on the images provided and analyzing them sequentially"
         ]
       },
       "based on the images provided and following the instructions,": {
@@ -418,7 +427,11 @@
           "scene is set on a submarine-like structure floating amidst t",
           "based on the provided images and their consecutive nature as",
           "scene depicts a nighttime underwater environment with stars ",
-          "in this nighttime virtual environment, an ethereal bridge co"
+          "in this nighttime virtual environment, an ethereal bridge co",
+          "according to the task's instructions, here is a detailed ana",
+          "virtual reality chat environment depicted through five conse",
+          "according to the given json structure and description of vrc",
+          "bustling virtual lounge known as 'the black cat', featuring "
         ]
       },
       "[3 sequential observations — ~3 seconds of continuous vrchat": {
@@ -591,7 +604,8 @@
         "connects_to": [
           "in a dark virtual space with ambient purple lighting from ab",
           "scene appears to be within a vrchat environment",
-          "[2 sequential observations — ~2 seconds of continuous vrchat"
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "environment"
         ]
       },
       "scene appears to be within a vrchat environment": {
@@ -791,7 +805,8 @@
         "connects_to": [
           "based on the provided images and instructions, here is a det",
           "using the information from all five frames and combining the",
-          "night-time virtual setting with dark and purple ambient ligh"
+          "night-time virtual setting with dark and purple ambient ligh",
+          "dimly lit virtual environment with a purple glowing floor un"
         ]
       },
       "using the information from all five frames and combining the": {
@@ -1053,10 +1068,225 @@
         "connects_to": [
           "[2 sequential observations — ~2 seconds of continuous vrchat"
         ]
+      },
+      "based on the provided screenshot, here is a detailed analysi": {
+        "label": "based on the provided screenshot, here is a detailed analysi",
+        "connects_to": [
+          "in a dark and eerie virtual space at night with purple ambie"
+        ]
+      },
+      "in a dark and eerie virtual space at night with purple ambie": {
+        "label": "in a dark and eerie virtual space at night with purple ambie",
+        "connects_to": [
+          "based on the provided screenshot, here is a detailed analysi",
+          "dark, eerie environment with glowing purple pathways"
+        ]
+      },
+      "dark, eerie environment with glowing purple pathways": {
+        "label": "dark, eerie environment with glowing purple pathways",
+        "connects_to": [
+          "in a dark and eerie virtual space at night with purple ambie",
+          "scene appears to be set within a virtual environment reminis"
+        ]
+      },
+      "scene appears to be set within a virtual environment reminis": {
+        "label": "scene appears to be set within a virtual environment reminis",
+        "connects_to": [
+          "dark, eerie environment with glowing purple pathways",
+          "in a dimly lit virtual environment with an eerie atmosphere "
+        ]
+      },
+      "in a dimly lit virtual environment with an eerie atmosphere ": {
+        "label": "in a dimly lit virtual environment with an eerie atmosphere ",
+        "connects_to": [
+          "scene appears to be set within a virtual environment reminis",
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "according to the task's instructions, here is a detailed ana": {
+        "label": "according to the task's instructions, here is a detailed ana",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "nighttime virtual reality environment with floating glowing "
+        ]
+      },
+      "nighttime virtual reality environment with floating glowing ": {
+        "label": "nighttime virtual reality environment with floating glowing ",
+        "connects_to": [
+          "according to the task's instructions, here is a detailed ana",
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "based on the analysis of the provided frames from vrchat, he": {
+        "label": "based on the analysis of the provided frames from vrchat, he",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat",
+          "using the provided information from each consecutive vrchat "
+        ]
+      },
+      "using the provided information from each consecutive vrchat ": {
+        "label": "using the provided information from each consecutive vrchat ",
+        "connects_to": [
+          "based on the analysis of the provided frames from vrchat, he",
+          "virtual reality chat environment depicted through five conse"
+        ]
+      },
+      "virtual reality chat environment depicted through five conse": {
+        "label": "virtual reality chat environment depicted through five conse",
+        "connects_to": [
+          "using the provided information from each consecutive vrchat ",
+          "based on the provided images and instructions, here is a det"
+        ]
+      },
+      "according to the given json structure and description of vrc": {
+        "label": "according to the given json structure and description of vrc",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det",
+          "nighttime virtual environment with silhouetted avatars and p"
+        ]
+      },
+      "nighttime virtual environment with silhouetted avatars and p": {
+        "label": "nighttime virtual environment with silhouetted avatars and p",
+        "connects_to": [
+          "according to the given json structure and description of vrc"
+        ]
+      },
+      "nighttime virtual environment with a purple-tinted ground an": {
+        "label": "nighttime virtual environment with a purple-tinted ground an",
+        "connects_to": [
+          "<environment type> <atmosphere><lighting/mood> - an outdoor "
+        ]
+      },
+      "<environment type> <atmosphere><lighting/mood> - an outdoor ": {
+        "label": "<environment type> <atmosphere><lighting/mood> - an outdoor ",
+        "connects_to": [
+          "nighttime virtual environment with a purple-tinted ground an",
+          "virtual reality environment with floating platforms in space"
+        ]
+      },
+      "virtual reality environment with floating platforms in space": {
+        "label": "virtual reality environment with floating platforms in space",
+        "connects_to": [
+          "<environment type> <atmosphere><lighting/mood> - an outdoor "
+        ]
+      },
+      "nighttime environment within vrchat featuring floating stars": {
+        "label": "nighttime environment within vrchat featuring floating stars",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta",
+          "dimly lit virtual environment with a purple glowing floor un"
+        ]
+      },
+      "dimly lit virtual environment with a purple glowing floor un": {
+        "label": "dimly lit virtual environment with a purple glowing floor un",
+        "connects_to": [
+          "nighttime environment within vrchat featuring floating stars",
+          "based on the images provided and following your instructions"
+        ]
+      },
+      "based on the provided frames and their sequential nature, he": {
+        "label": "based on the provided frames and their sequential nature, he",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "nighttime virtual reality environment with purple ambient li": {
+        "label": "nighttime virtual reality environment with purple ambient li",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "nighttime scene within vrchat featuring an outdoor environme": {
+        "label": "nighttime scene within vrchat featuring an outdoor environme",
+        "connects_to": [
+          "[2 sequential observations — ~2 seconds of continuous vrchat"
+        ]
+      },
+      "scene is a nighttime virtual environment on an outdoor platf": {
+        "label": "scene is a nighttime virtual environment on an outdoor platf",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta"
+        ]
+      },
+      "scene unfolds within the \"spotlight cross platform\" section ": {
+        "label": "scene unfolds within the \"spotlight cross platform\" section ",
+        "connects_to": [
+          "<vrchat game lobby interface>"
+        ]
+      },
+      "<vrchat game lobby interface>": {
+        "label": "<vrchat game lobby interface>",
+        "connects_to": [
+          "scene unfolds within the \"spotlight cross platform\" section "
+        ]
+      },
+      "based on the images provided and analyzing them sequentially": {
+        "label": "based on the images provided and analyzing them sequentially",
+        "connects_to": [
+          "based on the provided images and instructions, here's a deta",
+          "in vrchat, players are interacting with different virtual en"
+        ]
+      },
+      "in vrchat, players are interacting with different virtual en": {
+        "label": "in vrchat, players are interacting with different virtual en",
+        "connects_to": [
+          "based on the images provided and analyzing them sequentially"
+        ]
+      },
+      "environment": {
+        "label": "environment",
+        "connects_to": [
+          "based on the provided images and their descriptions, here is"
+        ]
+      },
+      "based on the provided images and their sequence, here's a de": {
+        "label": "based on the provided images and their sequence, here's a de",
+        "connects_to": [
+          "['festive atmosphere in vrchat, inviting users to a disco-th"
+        ]
+      },
+      "['festive atmosphere in vrchat, inviting users to a disco-th": {
+        "label": "['festive atmosphere in vrchat, inviting users to a disco-th",
+        "connects_to": [
+          "based on the provided images and their sequence, here's a de"
+        ]
+      },
+      "based on the images provided and following all instructions ": {
+        "label": "based on the images provided and following all instructions ",
+        "connects_to": [
+          "according to the given json structure and instructions for c"
+        ]
+      },
+      "according to the given json structure and instructions for c": {
+        "label": "according to the given json structure and instructions for c",
+        "connects_to": [
+          "based on the images provided and following all instructions ",
+          "nighttime virtual environment with a clear view of stars and"
+        ]
+      },
+      "nighttime virtual environment with a clear view of stars and": {
+        "label": "nighttime virtual environment with a clear view of stars and",
+        "connects_to": [
+          "according to the given json structure and instructions for c",
+          "based on the provided images and their timestamps, here is a"
+        ]
+      },
+      "based on the provided images and their timestamps, here is a": {
+        "label": "based on the provided images and their timestamps, here is a",
+        "connects_to": [
+          "nighttime virtual environment with a clear view of stars and"
+        ]
+      },
+      "bustling virtual lounge known as 'the black cat', featuring ": {
+        "label": "bustling virtual lounge known as 'the black cat', featuring ",
+        "connects_to": [
+          "based on the provided images and instructions, here is a det"
+        ]
       }
     },
     "occupancy_grid": {
       "0,0": 1,
+      "0,1": 1,
       "0,2": 1
     }
   }

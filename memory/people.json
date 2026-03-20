@@ -266,7 +266,7 @@
   },
   "json": {
     "first_seen": "2026-03-20",
-    "seen_count": 5,
+    "seen_count": 9,
     "session_dates": [
       "2026-03-20"
     ],
@@ -283,15 +283,24 @@
   },
   "names\": []": {
     "first_seen": "2026-03-20",
-    "seen_count": 2,
+    "seen_count": 12,
     "session_dates": [
       "2026-03-20"
     ],
     "worlds_met": [
       "Space world"
     ],
-    "quotes": [],
-    "relationship_score": 0,
+    "quotes": [
+      "Code_Shadow",
+      "PuddleDash",
+      "Mooow",
+      "PuddleDash,",
+      "Lolo_,",
+      "Input Chattrbox Text.",
+      "Puddle Dash,",
+      "Mooow,"
+    ],
+    "relationship_score": 8,
     "last_seen": "2026-03-20"
   },
   "Lilpeter": {
@@ -312,15 +321,18 @@
   },
   "{\"names\": []}": {
     "first_seen": "2026-03-20",
-    "seen_count": 2,
+    "seen_count": 8,
     "session_dates": [
       "2026-03-20"
     ],
     "worlds_met": [
       "Space world"
     ],
-    "quotes": [],
-    "relationship_score": 0,
+    "quotes": [
+      "Traveler_Observer",
+      "hello travelerobserver it s nice to met you what bring you her tonight"
+    ],
+    "relationship_score": 2,
     "last_seen": "2026-03-20"
   },
   "Degenoah": {
@@ -339,6 +351,472 @@
     "last_seen": "2026-03-20",
     "avatar_descs": [
       "A floating name tag indicating this player's presence at the top of their head."
+    ]
+  },
+  "<NAME>": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "unknown species/style, dominant colors black and white, hat with a visor"
+    ]
+  },
+  "LOU": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Human-like figure with dark clothing, standing upright."
+    ]
+  },
+  "?Noah": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "human-like, dark outfit and helmet"
+    ]
+  },
+  "Raven1938256017140": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "white ghostly figure with a flowing dress or cloak"
+    ]
+  },
+  "?Lola- ?rainbow": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Unknown avatar with a white outline in dark clothing and hood."
+    ]
+  },
+  "Amos3142795": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Unknown avatar with blue outfit sitting by the water."
+    ]
+  },
+  "PuddleDash": {
+    "first_seen": "2026-03-20",
+    "seen_count": 16,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Input Chatbox Text\n600g",
+      "Code_Shadow",
+      "I am fine. Except that my right thumb half open is",
+      "interesting about that is that I am writ",
+      "<interest talking about that is that I am writing with my right hand>",
+      "training my AI recong",
+      "I can tell,",
+      "It makes everything rn to."
+    ],
+    "relationship_score": 8,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "black cat in pink dress, floating to the right of a standing avatar.",
+      "cat character dancing on purple ground to the right",
+      "black cat with a pink dress and tail",
+      "cat-like avatar in pink attire with purple tail",
+      "anthropomorphic animal character wearing a pink dress and tail, floating to the right side of the scene"
+    ]
+  },
+  "Code_Shadow": {
+    "first_seen": "2026-03-20",
+    "seen_count": 13,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "interesting about that is that I am writing with my right hand",
+      "<floating text> It makes everything rn to make it 'y'.</floating text>",
+      "\"I can tell.\nIt makes everything rn to make it 'y'.\" - Code_Shadow",
+      "yeah",
+      "well",
+      "see you around, nice to meet"
+    ],
+    "relationship_score": 6,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "purple suit avatar standing still, floating text indicating interest in writing.",
+      "A figure wearing a suit and tie. The avatar is static.",
+      "dark-suited standing figure holding item",
+      "formal attire, standing in the middle of the frame with arms at their sides",
+      "Humanoid figure in dark suit and tie."
+    ]
+  },
+  "PuddleDash1": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "A character with cat ears, tail, pink dress, black hair in pigtails. This avatar appears to be moving or jumping."
+    ]
+  },
+  "read every floating white label above each avatar head - spell each character carefully including numbers and symbols; include partial names cut off at the edge": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Traveler_Observer": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "unknown species/style, black outfit"
+    ]
+  },
+  "Code Shadow": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "empty string; no chatbox content visible."
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Black suit with white tie and mask, floating above PuddlesDash on the left side."
+    ]
+  },
+  "PuddlesDash": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Fox-like creature, purple color scheme, distinctive tail",
+      "Anthropomorphic fox-like creature, purple fur with a raised tail."
+    ]
+  },
+  "PuddleDust": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Fox-tail avatar, predominantly yellow and black colors."
+    ]
+  },
+  "<Not present as no floating white labels indicating player names>": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "<Empty string as there are no speech bubbles or text above other players>"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "<Species/style, dominant colors, distinctive features, outfit in 8 words max>"
+    ]
+  },
+  "#68357 Group Public\nW 🖊️ | E 22": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "#66083 Group Public": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "A human character dressed in casual clothes, predominantly blue and white colors."
+    ]
+  },
+  "#70200 Group Public\nE 📝 | W 📛": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Evening": {
+    "first_seen": "2026-03-20",
+    "seen_count": 8,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "Weather Zone",
+      "Connecting...",
+      "Evening - Foggy",
+      "World",
+      "New Rods",
+      "New Boats",
+      "TrickForGe"
+    ],
+    "relationship_score": 7,
+    "last_seen": "2026-03-20"
+  },
+  "Unknown player (distance from camera)": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Evening - Foggy": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "animal avatar on the left"
+    ]
+  },
+  "HP: 100%": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "simple, cute character design"
+    ]
+  },
+  "Coins :0": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Level 1": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20"
+  },
+  "Evening - Clear Welcome": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "<empty string>"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Character is in the lower-left corner of the frame."
+    ]
+  },
+  "ASTROSWORLDsve": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "Black and white cat-themed attire with bat motifs. Black pants with lightning bolt patterns."
+    ]
+  },
+  "Ghost120999": {
+    "first_seen": "2026-03-20",
+    "seen_count": 1,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [],
+    "relationship_score": 0,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "White-haired character wearing dark clothing and sitting on the floor near the entrance."
+    ]
+  },
+  "Ghost12099": {
+    "first_seen": "2026-03-20",
+    "seen_count": 2,
+    "session_dates": [
+      "2026-03-20"
+    ],
+    "worlds_met": [
+      "Space world"
+    ],
+    "quotes": [
+      "cheesem"
+    ],
+    "relationship_score": 1,
+    "last_seen": "2026-03-20",
+    "avatar_descs": [
+      "white hair, pointed ears, bat wings"
     ]
   }
 }

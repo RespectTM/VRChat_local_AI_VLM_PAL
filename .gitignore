@@ -52,6 +52,9 @@ Thumbs.db
 ## Captures and screenshots
 captures/
 
+## Snapshots and image data (gallery, nametag crops, known people, unknowns)
+snapshots/
+
 ## Environment files
 .env
 .env.*
